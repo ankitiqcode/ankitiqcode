@@ -119,7 +119,7 @@
 <a href="https://kaggle.com/ankitiqcode" target="_blank">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-<a href="https://medium.com/@ankitiqcode" target="_blank">
+<a href="[https://medium.com/@ankitiqcode](https://medium.com/@ankitiqcode)" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 <a href="https://www.hackerrank.com/ankitvermasulta1" target="_blank">
