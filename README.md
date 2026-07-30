@@ -122,7 +122,7 @@
 <a href="https://medium.com/@ankitiqcode" target="_blank">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-<a href="https://www.hackerrank.com/ankitvermasulta1" target="_blank">
+<a href="https://www.hackerrank.com/profile/ankitvermasulta1" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/ankitiqcode-tech" target="_blank">
