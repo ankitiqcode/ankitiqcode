@@ -103,8 +103,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ankitiqcode-tech">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitiqcode-tech&theme=github-dark&hide_border=true" alt="Ankit's GitHub Activity Graph"/>
+  <a href="https://github.com/ankitiqcode">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitiqcode-tech&theme=github-dark&hide_border=true" alt="Ankit's GitHub Activity Graph"/>
   </a>
 </p>
 
