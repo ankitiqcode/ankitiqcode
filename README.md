@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ankitiqcode-tech?theme=dark&font=Vidaloka&ext=contest" alt="LeetCode Stats" height="170"/>
+  <img src="https://leetcard.jacoblin.cool/ankitiqcode?theme=dark&font=Vidaloka&ext=contest" alt="LeetCode Stats" height="170"/>
 </p>
 
 <p align="center">
