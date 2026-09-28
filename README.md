@@ -98,9 +98,6 @@
   <img src="https://streak-stats.demolab.com?user=ankitiqcode&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ankitiqcode?theme=dark&font=Vidaloka&ext=contest" alt="LeetCode Stats" height="170"/>
-</p>
 
 <p align="center">
   <a href="https://github.com/ankitiqcode">
